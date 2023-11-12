@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('../fonts/bebasneue/bebasneuebold.woff') format('woff'),
+        url('../fonts/bebasneue/bebasneuebold.woff2') format('woof2'),
+        url('../fonts/bebasneue/bebasneueregular.woff') format('woff'),
+        url('../fonts/bebasneue/bebasneueregular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('../fonts/HelveticaNeue/HelveticaNeueCyr-Black.ttf') format('ttf'),
+        url('../fonts/HelveticaNeue/HelveticaNeueCyr-Bold.ttf') format('ttf'),
+        url('../fonts/HelveticaNeue/HelveticaNeueCyr-Heavy.ttf') format('ttf'),
+        url('../fonts/HelveticaNeue/HelveticaNeueCyr-Light.ttf') format('ttf'),
+        url('../fonts/HelveticaNeue/HelveticaNeueCyr-Medium.ttf') format('ttf'),
+        url('../fonts/HelveticaNeue/HelveticaNeueCyr-Roman.ttf') format('ttf'),
+        url('../fonts/HelveticaNeue/HelveticaNeueCyr-Thin.ttf') format('ttf'),
+        url('../fonts/HelveticaNeue/HelveticaNeueCyr-UltraLight.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'Museo Sans Cyrl';
+    src:
+        url('../fonts/Museo/MuseoSansCyrl-300.woff') format('woff'),
+        url('../fonts/Museo/MuseoSansCyrl-500.woff') format('woff'),
+        url('../fonts/Museo/MuseoSansCyrl-700.woff') format('woff'),
+        url('../fonts/Museo/MuseoSansCyrl-900.woff') format('woff');
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');

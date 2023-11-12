@@ -1,0 +1,24 @@
+/* Импорт стилей для мобильных устройств */
+@import url('mobile-styles.css') screen and (max-width: 768px);
+
+/* Импорт стилей для планшетов */
+@import url('tablet-styles.css') screen and (min-width: 769px) and (max-width: 1024px);
+
+/* Импорт стилей для десктопов */
+@import url('desktop-styles.css') screen and (min-width: 1025px);
+
+body {
+    top: 0;
+    left: 0;
+    width: 100%;
+    margin: 0;
+}
+button {
+    cursor: pointer;
+}
+
+input[type='number']::-webkit-inner-spin-button,
+input[type='number']::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
