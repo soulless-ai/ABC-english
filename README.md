@@ -26,22 +26,3 @@
 </div>
 
 ---
-
-<style>
-    body {
-        background: #FD6A02;
-        color: black;
-    }
-
-    .image-container {
-        display: flex;
-        justify-content: space-between;
-        flex-wrap: wrap;
-    }
-
-    .image-container img {
-        width: 30%;
-        height: 100%;
-        margin-bottom: 10px;
-    }
-</style>
